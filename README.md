@@ -21,12 +21,7 @@ In this lab, you will implement the MVC map, trying to *grasp* the **concept of 
 
 1. Startup idea: A youtube, but just for cat videos: cattube.com. We want to keep this website simple, so users should be able to do two things: upload a new cat video and display all of the published cat videos in order.
 
-    (a) Split up cattube according to MVC. What information belongs to each component?
-    
-    (b) Do Python classes belong in M, V, or C?
-    
-    (c) In pseudocode, what Python classes, in addition to a User class, should you define for this website?
-    
+    - Split up cattube according to MVC. What information belongs to each component?
        
 
 ##### Great job! Call an Instructor/TA to check your completed tasks!
